@@ -25,5 +25,9 @@ The report talks about different sets of variations related to two major paramet
 	
 	
 Reference:
+
+
 1. LeCun, Yann; Corinna Cortes, Christopher J.C. Burges. "MNIST handwritten digit database"
+ 
+
 2. Bishop, Christopher M. "Pattern recognition and machine learning" (2007)
